@@ -3,4 +3,4 @@ Base project Api Nodejs
 - cek IP ke ipinfo
 
 Database yang digunakan
--MongoDB
+- MongoDB
